@@ -1,0 +1,16 @@
+Key.ctrlcKey.upKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.backspace<
+sudo su
+kali
+ls
+cat < loggerKey.backspaceKey.backspaceKey.backspace.textKey.backspaceKey.backspaceKey.backspacext
+Key.upKey.upKey.upKey.upKey.upKey.downKey.downKey.downKey.downKey.downKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspacels
+cd
+python3 keylogger.py
+cd pythoKey.backspaceKey.backspaceKey.backspacecode
+ls
+Key.ctrlcKey.ctrlcKey.ctrlcKey.ctrlcKey.ctrlKey.shiftTnmap
+nmap -v -aKey.backspaceKey.shiftA google.com
+mm
+Key.ctrlcsivaKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspacevijayKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspacesudo su
+kali
+root accessKey.ctrlcKey.shiftKey.ctrlNKey.ctrlzvijay kalai Key.ctrlc
